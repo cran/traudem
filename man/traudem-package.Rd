@@ -18,7 +18,7 @@ Useful links:
 
 }
 \author{
-\strong{Maintainer}: Luca Carraro \email{maelle.salmon@yahoo.se}
+\strong{Maintainer}: Luca Carraro \email{Luca.Carraro@eawag.ch}
 
 Authors:
 \itemize{
