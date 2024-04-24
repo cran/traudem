@@ -1,6 +1,6 @@
 Package: traudem
 Title: Use TauDEM
-Version: 1.0.2
+Version: 1.0.3
 Authors@R: c(
     person("Luca", "Carraro", , "Luca.Carraro@eawag.ch", role = c("cre", "aut")),
     person("University of Zurich", role = c("cph", "fnd")),
@@ -27,8 +27,9 @@ VignetteBuilder: knitr
 Config/testthat/edition: 3
 Config/Needs/website: usethis
 Encoding: UTF-8
+RoxygenNote: 7.3.1
 NeedsCompilation: no
-Packaged: 2024-02-06 16:38:18 UTC; carrarlu
+Packaged: 2024-04-24 14:59:30 UTC; carrarlu
 Author: Luca Carraro [cre, aut],
   University of Zurich [cph, fnd],
   Maëlle Salmon [aut] (<https://orcid.org/0000-0002-2815-0399>),
@@ -36,4 +37,4 @@ Author: Luca Carraro [cre, aut],
   Kirill Müller [aut] (<https://orcid.org/0000-0002-1416-3412>)
 Maintainer: Luca Carraro <Luca.Carraro@eawag.ch>
 Repository: CRAN
-Date/Publication: 2024-02-06 17:30:05 UTC
+Date/Publication: 2024-04-24 16:20:02 UTC
